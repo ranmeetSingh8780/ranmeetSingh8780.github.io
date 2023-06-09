@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main-section {
+  background-color: rgb(222, 222, 222);
+  margin-bottom: -17px;
+  padding: 20px;
+}
+
+.name {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-align: center;
+  color: rgb(227, 227, 227);
+  padding: 20px 0;
+  letter-spacing: 10px;
+}
+
+.header-title {
+  color: rgb(50, 59, 76);
+  text-align: center;
+  font-weight: bold;
+  letter-spacing: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.hr-line {
+  display: block;
+  margin: 0 auto;
+  width: 93%;
+  padding: 10px;
+}
+
+.section-title {
+  color: rgb(50, 59, 76);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 25px;
+  margin-left: 70px;
+  padding-top: 20px;
+}
+
+.car-obj-txt {
+  font-family: sans-serif;
+  margin-left: 50px;
+  text-align: justify;
+  padding-top: 20px;
+  width: 90%;
+  color: rgb(227, 227, 227);
+}
+
+.obj-text {
+  font-family: sans-serif;
+  margin-left: 50px;
+  text-align: justify;
+  padding-top: 20px;
+  width: 90%;
+  color: rgb(50, 59, 76);
+}
+
+.obj-title {
+  font-size: 20px;
+  color: rgb(227, 227, 227);
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.side-bar {
+  background-color: rgb(50, 59, 76);
+}
+
+.pro-photo {
+  width: 10%;
+  border-radius: 10%;
+  border: 1px solid rgb(255, 255, 255);
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bar-title {
+  color: rgb(227, 227, 227);
+  padding-top: 10px;
+  padding-left: 40px;
+}
+
+.sidebar-hr {
+  display: block;
+  margin: 0 auto;
+  width: 95%;
+  padding-top: 10px;
+  color: rgb(227, 227, 227);
+}
+
+.sidebar-heading {
+  color: rgb(227, 227, 227);
+  font-weight: 800;
+}
+.sidebar-text {
+  color: rgb(227, 227, 227);
+  padding-left: 40px;
+}
+
+.header-ul {
+  color: rgb(227, 227, 227);
+  padding-left: 60px;
+}
+
+.header-li-items {
+  padding-top: 10px;
+}
+
+footer {
+  background-color: rgb(50, 59, 76);
+}
+
+.footer-text {
+  color: rgb(227, 227, 227);
+  line-height: 50px;
+  margin: 0;
+  text-align: center;
+}
